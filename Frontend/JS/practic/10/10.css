@@ -1,0 +1,28 @@
+.hover, .mouse{
+    background-color: green;
+    height: 250px;
+    width: 250px;
+    margin-bottom: 20px;
+}
+.hover{
+    border: 1px solid black;
+}
+.cordinat_block{
+    display: flex;
+    justify-content: space-between;
+    width: 1000px;
+    height: 300px;
+    margin: 50px auto;
+}
+.cordinat_block>div{
+    width: 300px;
+    height: 300px;
+    border: 2px solid red;
+}
+p{
+    text-align: center;
+    padding: 50px;
+}
+header{
+    padding: 50px;
+}
